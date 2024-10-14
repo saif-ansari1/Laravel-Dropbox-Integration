@@ -1,4 +1,4 @@
-## About Laravel-Google-Drive-Integration
+## About Laravel-Dropbox-Integration
 
 Connect Dropbox in Laravel and upload images directly through Dropbox. Below are some features highlighted:
 
